@@ -81,7 +81,7 @@ class Search extends SearchDelegate{
           ],
         ),
       );
-    },itemCount: suggestionLsit.length,)
+    },itemCount: suggestionLsit.length,);
 
   }
   
